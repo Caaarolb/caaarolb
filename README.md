@@ -26,8 +26,7 @@
 <img align="center" alt= "Caaarol-Canva" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="center" alt= "Caaarol-Canva" height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-
-          </div>
+</div>
           
           
           
