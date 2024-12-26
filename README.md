@@ -13,7 +13,7 @@ I’m transitioning into the tech space with a love for problem-solving and buil
 - **CSS & HTML**: Building responsive, sleek, and user-friendly websites.
 - **Canva**: Designing eye-catching graphics to complement my projects.
 
-## 🐱💻 Check out my progress as this little kitty walks through my commits!
+## 🐱💻 Check out my progress!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?snake=cat" alt="Kitty walking across commits" />
