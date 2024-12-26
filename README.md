@@ -51,7 +51,7 @@ Here’s a peek into my GitHub journey—check out how I’m growing and the lan
 ## 🤝 Let's Collaborate!
 Feel free to explore my repositories, drop me a message if you want to collaborate, share ideas, or just chat about coding and design. Let’s create something awesome together! 🚀
 
-🔗 [Check out my LinkedIn]([https://www.linkedin.com/in/caaarolb/](https://www.linkedin.com/in/-caroline-boaventura/)) for more of my work and career details.
+🔗 [Check out my LinkedIn](https://www.linkedin.com/in/-caroline-boaventura/) for more of my work and career details.
 
 ---
 
