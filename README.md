@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hey, I'm Jotinha 👩‍💻🐾
 
 Welcome to my GitHub world! I'm a passionate tech enthusiast who's diving deep into coding and design. From **PHP** to **Java**, **JavaScript**, **TypeScript**, **CSS**, **HTML**, and SQL, I love experimenting with everything tech-related! Plus, I also get creative with **Canva**. 🎨
@@ -20,16 +18,12 @@ I’m transitioning into the tech space with a love for problem-solving and buil
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?snake=cat" alt="Kitty walking across commits" />
 </p>
 
+---
+
 ## 📊 GitHub Stats:
-Here’s a peek into my GitHub journey—check out how I’m growing and the languages I’m working with:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caaarolb&show_icons=true&count_private=true&hide=prs&theme=gruvbox&hide_border=true" alt="Caaarolb's GitHub stats">
-</p>
-
-### 🧰 Most used languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caaarolb&langs_count=10&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Caaarolb&show_icons=true&count_private=true&hide=prs&theme=radical&hide_border=true&width=400&height=400" alt="Caaarolb's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caaarolb&langs_count=10&layout=compact&theme=radical&hide_border=true&width=400&height=400" alt="Top languages">
 </p>
 
 ---
@@ -57,8 +51,5 @@ Feel free to explore my repositories, drop me a message if you want to collabora
 # 👾 Fun Fact:
 I believe that coding is like writing the future with a bunch of cool logic and creativity. And every time I write a line of code, I feel like I'm unlocking new levels in a video game. 🎮 Let's level up together!
 
+</div>
 
-
-
-
-          
