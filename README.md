@@ -56,7 +56,14 @@ I believe that coding is like writing the future with a bunch of cool logic and 
 </div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caaarolb" alt="caaarolb" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=caaarolb&row=1&column=6&margin-w=5&margin-h=5" alt="caaarolb" />
+  </a>
+</p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
