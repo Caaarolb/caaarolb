@@ -25,16 +25,10 @@ I’m transitioning into the tech space with a love for problem-solving and buil
 <div align="center" style="background-color: black; padding: 20px;">
   <!-- Dois primeiros gráficos lado a lado -->
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Caaarolb&show_icons=true&count_private=true&hide=prs&theme=radical&hide_border=true&width=400&height=400" alt="Caaarolb's GitHub stats" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caaarolb&langs_count=10&layout=compact&theme=radical&hide_border=true&width=400&height=400" alt="Top languages">
   </div>
 
-  <!-- Gráfico centralizado abaixo -->
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caaarolb&theme=radical&hide_border=true" alt="caaarolb streak stats" style="margin-top: 20px;">
-  </p>
-</div>
-
+ 
 
 ---
 
