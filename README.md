@@ -21,10 +21,20 @@ I’m transitioning into the tech space with a love for problem-solving and buil
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caaarolb&show_icons=true&count_private=true&hide=prs&theme=radical&hide_border=true&width=400&height=400" alt="Caaarolb's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caaarolb&langs_count=10&layout=compact&theme=radical&hide_border=true&width=400&height=400" alt="Top languages">
-</p>
+
+<div align="center" style="background-color: black; padding: 20px;">
+  <!-- Dois primeiros gráficos lado a lado -->
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Caaarolb&show_icons=true&count_private=true&hide=prs&theme=radical&hide_border=true&width=400&height=400" alt="Caaarolb's GitHub stats" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caaarolb&langs_count=10&layout=compact&theme=radical&hide_border=true&width=400&height=400" alt="Top languages">
+  </div>
+
+  <!-- Gráfico centralizado abaixo -->
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caaarolb&theme=radical&hide_border=true" alt="caaarolb streak stats" style="margin-top: 20px;">
+  </p>
+</div>
+
 
 ---
 
@@ -44,12 +54,22 @@ I’m transitioning into the tech space with a love for problem-solving and buil
 ## 🤝 Let's Collaborate!
 Feel free to explore my repositories, drop me a message if you want to collaborate, share ideas, or just chat about coding and design. Let’s create something awesome together! 🚀
 
-🔗 [Check out my LinkedIn](https://www.linkedin.com/in/-caroline-boaventura/) for more of my work and career details.
-
 ---
 
 # 👾 Fun Fact:
 I believe that coding is like writing the future with a bunch of cool logic and creativity. And every time I write a line of code, I feel like I'm unlocking new levels in a video game. 🎮 Let's level up together!
 
 </div>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caaarolb" alt="caaarolb" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/caroline-boaventura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caroline-boaventura" height="30" width="40" /></a>
+</p>
+
+
+
+
 
