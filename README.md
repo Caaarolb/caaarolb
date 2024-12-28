@@ -64,14 +64,15 @@ I believe that coding is like writing the future with a bunch of cool logic and 
 
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/-caroline-boaventura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caroline-boaventura" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/-caroline-boaventura/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caroline-boaventura" height="30" width="40" />
+  </a>
+  <a href="mailto:caaarolboa@gmail.com" title="Gmail">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" alt="Gmail" height="30" />
+  </a>
 </p>
-<a href="mailto:caaarolboa@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" alt="Gmail"/>
-</a>
 
 
 
