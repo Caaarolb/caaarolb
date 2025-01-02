@@ -1,6 +1,6 @@
-# Hey, I'm Jotinha 👩‍💻🐾
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Play&vCenter=true&left=true&size=50&pause=1000&color=FFF&width=1000&height=65&lines=Hey%2C+I'm+Jotinha)](https://git.io/typing-svg)
 
-Welcome to my GitHub world! I'm a passionate tech enthusiast who's diving deep into coding and design. From **PHP** to **Java**, **JavaScript**, **TypeScript**, **CSS**, **HTML**, and SQL, I love experimenting with everything tech-related! Plus, I also get creative with **Canva**. 🎨
+👩‍💻🐾 Welcome to my GitHub world! I'm a passionate tech enthusiast who's diving deep into coding and design. From **PHP** to **Java**, **JavaScript**, **TypeScript**, **CSS**, **HTML**, and SQL, I love experimenting with everything tech-related! Plus, I also get creative with **Canva**. 🎨
 
 💡 **Why am I here?**  
 I’m transitioning into the tech space with a love for problem-solving and building awesome things. I started out with a curiosity for how things work, and now I’m writing code and designing solutions. Let’s get techy and creative together! 💻✨
