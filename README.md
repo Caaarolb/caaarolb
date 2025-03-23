@@ -1,17 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Play&vCenter=true&left=true&size=50&pause=1000&color=FFF&width=1000&height=65&lines=Hey%2C+I'm+Jotinha)](https://git.io/typing-svg)
 
-👩‍💻🐾 Welcome to my GitHub world! I'm a passionate tech enthusiast who's diving deep into coding and design. From **C#** to **Java**, **JavaScript**, **TypeScript**, **CSS**, **HTML**, and SQL, I love experimenting with everything tech-related! Plus, I also get creative with **Canva**. 🎨
+👩‍💻🐾 Welcome to my GitHub world! I'm a passionate tech enthusiast who's diving deep into coding and design. From C# to Java, JavaScript, TypeScript, CSS, HTML, SQL, and AWS, I love experimenting with everything tech-related! Plus, I also get creative with Canva. 🎨
 
-💡 **Why am I here?**  
+💡 Why am I here?
 I’m transitioning into the tech space with a love for problem-solving and building awesome things. I started out with a curiosity for how things work, and now I’m writing code and designing solutions. Let’s get techy and creative together! 💻✨
 
+
 ## 🚀 My Learning Journey:
-- **PHP**: Crafting the backend for powerful web applications.
-- **Java**: Mastering the world of object-oriented programming.
-- **JavaScript & TypeScript**: Making the web come alive with dynamic content and improved code.
-- **CSS & HTML**: Building responsive, sleek, and user-friendly websites.
-- **SQL**: Writing efficient queries and managing databases with intermediate skills.
-- **Canva**: Designing eye-catching graphics to complement my projects.
+C#: Building powerful backend solutions and exploring object-oriented programming. <br>
+Java: Mastering the world of object-oriented programming.<br>
+JavaScript & TypeScript: Making the web come alive with dynamic content and improved code.<br>
+CSS & HTML: Building responsive, sleek, and user-friendly websites.<br>
+SQL: Writing efficient queries and managing databases with intermediate skills.<br>
+AWS: Exploring cloud computing and services to deploy and manage scalable applications.<br>
+I.A: Delving into the world of Artificial Intelligence to create smarter solutions.<br>
+Canva: Designing eye-catching graphics to complement my projects.
 
 ## 🐱💻 Check out my progress!🐱
 <p align="center">
