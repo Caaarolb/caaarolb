@@ -7,8 +7,6 @@ I’m transitioning into the tech space with a love for problem-solving and buil
 
 
 ## 🚀 My Learning Journey:
-C#: Building powerful backend solutions and exploring object-oriented programming. <br>
-Java: Mastering the world of object-oriented programming.<br>
 JavaScript & TypeScript: Making the web come alive with dynamic content and improved code.<br>
 CSS & HTML: Building responsive, sleek, and user-friendly websites.<br>
 SQL: Writing efficient queries and managing databases with intermediate skills.<br>
